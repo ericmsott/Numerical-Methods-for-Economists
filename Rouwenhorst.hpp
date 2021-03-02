@@ -1,8 +1,8 @@
 #include <iostream>
-#include </usr/include/eigen3/Eigen/Dense> // Para implementar Alg Lin utilizando o LAPACK.
+#include </usr/include/eigen3/Eigen/Dense> // Para implementar Alg Lin
 
 using namespace std;
-using Eigen::MatrixXd; // namespace do pacote 'Armadillo'.
+using Eigen::MatrixXd;
 
 /* A função rouwenhorst é a principal deste
    header file, e ela implementa o método de Rouwenhorst. */
